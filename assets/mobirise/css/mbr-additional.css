@@ -735,15 +735,15 @@ a:hover {
   display: none !important;
 }
 #menu1-1a .navbar-toggler {
-  color: #1f8068;
+  color: #e60d0d;
 }
 #menu1-1a .close-icon::before,
 #menu1-1a .close-icon::after {
-  background-color: #1f8068;
+  background-color: #e60d0d;
 }
 #menu1-1a .link,
 #menu1-1a .dropdown-item {
-  color: #1f8068;
+  color: #e60d0d;
   font-family: 'Libre Franklin', serif;
 }
 #menu1-1a .link {
@@ -763,7 +763,7 @@ a:hover {
 }
 #menu1-1a .dropdown-item:hover,
 #menu1-1a .dropdown-item:focus {
-  color: #1f8068;
+  color: #e60d0d;
 }
 #menu1-1a .link[aria-expanded="true"],
 #menu1-1a .dropdown-menu {
@@ -782,7 +782,7 @@ a:hover {
   background: #fffffd;
 }
 #menu1-1a .bg-color.transparent .link {
-  color: #1f8068;
+  color: #e60d0d;
   transition: none;
 }
 #menu1-1a .bg-color.transparent.opened .link {
@@ -800,7 +800,7 @@ a:hover {
   text-align: center;
 }
 #counters1-1g .count {
-  color: #74a3c7;
+  color: #e60d0d;
 }
 #table1-1d TABLE {
   text-align: left;

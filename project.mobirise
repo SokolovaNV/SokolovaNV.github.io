@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portal",
-    "currentPage": "page4.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -924,13 +924,13 @@
               "display": "none !important"
             },
             ".navbar-toggler": {
-              "color": "#1f8068"
+              "color": "#e60d0d"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#1f8068"
+              "background-color": "#e60d0d"
             },
             ".link, .dropdown-item": {
-              "color": "#1f8068",
+              "color": "#e60d0d",
               "font-family": "'Libre Franklin', serif"
             },
             ".link": {
@@ -946,7 +946,7 @@
               "background": "#232323"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#1f8068"
+              "color": "#e60d0d"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#fffffd"
@@ -958,7 +958,7 @@
               "background": "#fffffd"
             },
             ".bg-color.transparent .link": {
-              "color": "#1f8068",
+              "color": "#e60d0d",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1119,7 +1119,7 @@
         {
           "_styles": {
             ".count": {
-              "color": "#74a3c7"
+              "color": "#e60d0d"
             }
           },
           "_params": {
