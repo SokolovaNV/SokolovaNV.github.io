@@ -21,7 +21,8 @@
       },
       "additionalSetColors": [
         "#74a3c7",
-        "#232323"
+        "#232323",
+        "#e60d0d"
       ]
     },
     "versionFirst": "4.3.4",
@@ -122,7 +123,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-89x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-56x100.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -319,7 +320,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-89x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-56x100.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -723,7 +724,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-89x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-56x100.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -991,7 +992,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-89x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-56x100.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
