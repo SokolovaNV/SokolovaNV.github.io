@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portal",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -9,7 +9,7 @@
         "primaryColor": "#e60d0d",
         "secondaryColor": "#A25DAE",
         "successColor": "#1E7C3A",
-        "infoColor": "#667bb1",
+        "infoColor": "#bdb39a",
         "warningColor": "#FFD785",
         "dangerColor": "#FF9685",
         "titleFont": "PT Sans",
@@ -656,13 +656,13 @@
               "display": "none !important"
             },
             ".navbar-toggler": {
-              "color": "#1f8068"
+              "color": "#e60d0d"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#1f8068"
+              "background-color": "#e60d0d"
             },
             ".link, .dropdown-item": {
-              "color": "#1f8068",
+              "color": "#e60d0d",
               "font-family": "'Libre Franklin', serif"
             },
             ".link": {
@@ -678,7 +678,7 @@
               "background": "#232323"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#1f8068"
+              "color": "#e60d0d"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#fffffd"
@@ -690,7 +690,7 @@
               "background": "#fffffd"
             },
             ".bg-color.transparent .link": {
-              "color": "#1f8068",
+              "color": "#e60d0d",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -773,7 +773,7 @@
           "title4": "Tab heading 4",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-primary\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-m\" aria-expanded=\"false\">ЛЬГОТЫ</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-m\" aria-expanded=\"false\">РЕЦЕПТЫ</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><br><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-m\" aria-expanded=\"true\">ЛИЧНЫЕ ДАННЫЕ</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-m\" aria-expanded=\"true\">РЕЦЕПТЫ</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-m\" aria-expanded=\"true\">Add funds</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-primary active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-m\" aria-expanded=\"true\">ЛЬГОТЫ</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-m\" aria-expanded=\"false\">РЕЦЕПТЫ</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><br><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-m\" aria-expanded=\"true\">ЛИЧНЫЕ ДАННЫЕ</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-m\" aria-expanded=\"true\">РЕЦЕПТЫ</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-m\" aria-expanded=\"true\">Add funds</a></li>",
           "text1": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)!",
           "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
